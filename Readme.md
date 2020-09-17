@@ -1,0 +1,2 @@
+I made recursive func *FindLongestChain* that walks through tree and finds the longest path.
+But in that case, i think recursion is not necessary, cause we need just to find the longest way, so i made another version *FindLongestPathWithoutRecursion*.
